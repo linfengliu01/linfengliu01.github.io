@@ -1,2 +1,3 @@
-# linfengliu01.github.io
-Linfeng Liu Academic Homepage
+# Linfeng Liu Academic Homepage
+
+This repository contains the source for Linfeng Liu's GitHub Pages homepage at `linfengliu.github.io`.
