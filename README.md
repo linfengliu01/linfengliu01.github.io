@@ -1,3 +1,3 @@
 # Linfeng Liu Academic Homepage
 
-This repository contains the source for Linfeng Liu's GitHub Pages homepage at `linfengliu.github.io`.
+This repository contains the source for Linfeng Liu's GitHub Pages homepage at `linfengliu01.github.io`.
